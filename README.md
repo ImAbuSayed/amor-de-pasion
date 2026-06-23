@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te vas conmigo.. yeah..
+> Siento la tensión, no somos solo amigos
+> Baby, tu mirada es un fuego encendido
+> Let's get lost tonight, en tu piel me pierdo y sigo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
