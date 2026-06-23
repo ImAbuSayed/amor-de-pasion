@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amor de pasión
+
+This log tracks the cryptographic history and versioning for the song **Amor de pasión** (amor-de-pasion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T14:16:53.547821 | `v1` | `4d1986816cc7b225c2348a5bbcc583af716bafb5d0df21b3fe1e81372e3ce23b` | `951692cf2fb49d70289be5e26a6d0bbd518343be5da8ed4623c56951930592ed` | `2026-06-23_amor-de-pasion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
